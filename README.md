@@ -49,12 +49,12 @@ The `openvibe` folder contains OpenVibe `.xml` files use for data processing of 
 ## See also
 
 You might also be interested in the following repositories:
- - The [`jax-soft-robot-modelling`](https://github.com/tud-phi/jax-soft-robot-modelling) repository contains a JAX implementation 
+ - The [`jax-soft-robot-modelling`](https://github.com/phi-lab-research/jsrm) repository contains a JAX implementation 
  of various soft robot models, which can be, for example, used to simulate the robot's forward dynamics.
- - The [`hsa-planar-control`](https://github.com/tud-phi/hsa-planar-control) repository contains JAX and ROS2 implementations
+ - The [`hsa-planar-control`](https://github.com/phi-lab-research/hsa-planar-control) repository contains JAX and ROS2 implementations
  of model-based control algorithms for planar HSA robots.
- - The [`jax-spcs-kinematics`](https://github.com/tud-phi/jax-spcs-kinematics) repository contains an implementation
+ - The [`jax-spcs-kinematics`](https://github.com/phi-lab-research/jax-spcs-kinematics) repository contains an implementation
  of the Selective Piecewise Constant Strain (SPCS) kinematics in JAX. We have shown in our paper that this kinematic 
 model is suitable for representing the shape of HSA rods.
- - The [`HSA-PyElastica`](https://github.com/tud-phi/HSA-PyElastica) repository contains a plugin for PyElastica
+ - The [`HSA-PyElastica`](https://github.com/phi-lab-research/HSA-PyElastica) repository contains a plugin for PyElastica
 for the simulation of HSA robots.

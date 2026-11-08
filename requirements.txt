@@ -6,4 +6,4 @@ pycairo  # for plotting
 PyQt5  # for plotting
 
 # install hsa-planar-control
-git+git://github.com/tud-phi/hsa-planar-control.git
+git+https://github.com/phi-lab-research/hsa-planar-control.git
